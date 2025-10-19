@@ -1,6 +1,7 @@
 # 🌿 Sway config
 
 Sway configuration used in **Fedora**, alongside **KDE** 💻
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf66de2a-1506-4bab-b884-f3cc58837b9b" />
 
 ---
 
