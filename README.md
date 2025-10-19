@@ -35,6 +35,7 @@ ln -sf <repo_path>/wofi ~/.config/wofi
 ---
 
 🧁 This setup aims to provide a **minimal yet elegant Wayland environment**, blending **Catppuccin aesthetics** with **KDE integration** for a cohesive desktop experience — and powered by **Ghostty** for a beautiful, consistent terminal look.
----
+
+
 ## Other parts
 Other parts of my config, like **zsh and neovim configs** can be found in [my linux - config script](https://github.com/KingaEwaAdamska/linux-config-script)
