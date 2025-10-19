@@ -3,7 +3,7 @@
 Sway configuration used in **Fedora**, alongside **KDE** 💻
 Beautifully themed with the **Catppuccin Mocha** palette ☕✨
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf66de2a-1506-4bab-b884-f3cc58837b9b" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/cf66de2a-1506-4bab-b884-f3cc58837b9b" />
 
 🎨 **Color scheme:** [Catppuccin](https://catppuccin.com/)
 
@@ -18,6 +18,7 @@ Beautifully themed with the **Catppuccin Mocha** palette ☕✨
 * 🔍 **App search:** `wofi` — inspired by [quantumfate’s wofi config](https://github.com/quantumfate/wofi/tree/main#)
 * 🌞 **Brightness control:** `brightnessctl`
 * 📸 **Screenshots:** `grim`, `slurp`, `wl-clipboard`
+* 💻 **Terminal:** [Ghostty](https://ghostty.org/)
 
 ---
 
@@ -33,4 +34,7 @@ ln -sf <repo_path>/wofi ~/.config/wofi
 
 ---
 
-🧁 This setup aims to provide a **minimal yet elegant Wayland environment**, blending **Catppuccin aesthetics** with **KDE integration** for a cohesive desktop experience.
+🧁 This setup aims to provide a **minimal yet elegant Wayland environment**, blending **Catppuccin aesthetics** with **KDE integration** for a cohesive desktop experience — and powered by **Ghostty** for a beautiful, consistent terminal look.
+---
+## Other parts
+Other parts of my config, like **zsh and neovim configs** can be found in [my linux - config script](https://github.com/KingaEwaAdamska/linux-config-script)
